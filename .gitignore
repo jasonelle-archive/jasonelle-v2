@@ -1,0 +1,13 @@
+.DS_Store
+.Rproj.user
+__pycache__
+.idea
+.vscode
+jasonette/android
+jasonette/ios
+jasonette/web
+cell
+st
+docs
+website
+jasonbase

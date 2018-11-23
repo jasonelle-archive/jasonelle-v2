@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "jasonette/android": "https://github.com/jasonelle/jasonette-android",
+    "jasonette/ios": "https://github.com/jasonelle/jasonette-ios",
+    "jasonette/web": "https://github.com/jasonelle/jasonette-web",
+    "cell": "https://github.com/jasonelle/cell.js",
+    "st": "https://github.com/jasonelle/st.js",
+    "docs": "https://github.com/jasonelle/docs",
+    "website": "https://github.com/jasonelle/jasonelle.github.io",
+    "jasonbase": "https://github.com/jasonelle/jasonbase"
+  }
+}

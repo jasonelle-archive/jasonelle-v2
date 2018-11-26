@@ -1,6 +1,6 @@
 ---
-name: Bug report Cell.js
-about: Create a report to help us improve Cell.js
+name: Bug report Documentation
+about: Create a report to help us improve documentation
 
 ---
 

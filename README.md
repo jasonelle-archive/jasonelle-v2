@@ -1,23 +1,8 @@
 # Jasonelle Framework
 
 *Jasonelle* is a Framework that uses [JSON](https://www.json.org/) as the main language
-to create *Android*, *iOS* and *Web* applications.
+to create *Android* and *iOS* applications.
 
-## Releases and Branches
-
-- *master* branch contains the cutting edge code, may contain unknown bugs.
-- *stable* branch contains code that has been tested and ready for production use.
-
-Go to [Releases](https://github.com/jasonelle/framework/releases) to download the component
-you want to use.
-
-## Meta Repository
-
-This repository is a meta repository to store all the different parts of *Jasonelle*.
-
-We are using https://github.com/mateodelnorte/meta to fetch coordinate different repos.
-
-Also this repository serves as a *Head Quarter* to tackle issues and project manager tasks.
 
 ## Components
 
@@ -30,37 +15,20 @@ building native mobile apps. With *Jasonette* you have the power of *JSON + Java
 at your hands. **Totally Native!**. No html or weird build tools needed. Just
 good old *JSON*.
 
-- [Jasonette Android](jasonette/mobile/android)
-- [Jasonette iOS](jasonette/mobile/ios)
-
-#### Web Version
-
-This component is a web implementation of *Jasonette*. Is meant to be used as a tool
-for prototyping *Jasonette* apps in a WYSIWYG Web environment.
-
-- [Jasonette Web](jasonette/web)
-
-### Cell.js
-
-A framework to create web apps. Forget about complex structures and step learning curve that
-other frameworks like *Vue.js* or *React* have. Simplify you life and get back to the 
-core unit, a *JSON Cell*.
-
-- [Cell.js](celljs)
+- [Jasonette Android](https://github.com/jasonelle/jasonette-android)
+- [Jasonette iOS](https://github.com/jasonelle/jasonette-ios)
 
 ### ST.js
 
-If you think *Jasonette* is Awesome, now you can create your own *JSON template* with *Select Transform*!.
-The power is in your hands and only your imagination is the limit. Go crazy and make
-out of this world tools!.
+If you think *Jasonette* is Awesome, now you can create your own *JSON template* with *Select Transform*!. This component is the core engine that powers *Jasonette*.
 
-- [ST.js](stjs)
+- [ST.js](https://github.com/jasonelle/st.js)
 
 ### Docs
 
-Of course *jasonelle* is full of documentation!.
+Of course *Jasonelle* is full of documentation!.
 
-- [Docs](docs)
+- [Docs](https://github.com/jasonelle/docs)
 
 
 ## Frequently Asked Questions (FAQ)
@@ -68,17 +36,20 @@ Of course *jasonelle* is full of documentation!.
 
 ### What about the Original Jasonette?
 
-*Jasonette* is the framework on wich *Jasonelle* is based on. You can know more about
-why we created this fork in the following [issue](https://github.com/Jasonette/Jasonette/issues/23).
+*Jasonette* was created by [Ethan](https://github.com/gliechtenstein). 
+But one day we disappeared from earth and went to higher plains of existence. You can know more about why we created this fork in the following [issue](https://github.com/Jasonette/Jasonette/issues/23).
 
 ### What about Jason App?
 
-You now have to compile it in order to run. Maybe we can upload a new version
-in the future.
+You must compile it using the code here.
+
+[Jason App](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
 
 ### What about Jason Base?
 
-It would not be available if the servers or the domain shut downs. 
-We recommend moving your jsons to a server you own.
+Go here
+[Jasonbase](https://github.com/jasonelle/jasonbase)
 
-We are working on an implementation you can use to store your jsons.
+## Website
+
+You can access latest news about *Jasonelle* in the [Jasonelle Blog](https://jasonelle.com/blog/).

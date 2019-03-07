@@ -1,4 +1,4 @@
-# Jasonelle Framework
+# 🛸 Jasonelle Framework
 
 *Jasonelle* is a Framework that uses [JSON](https://www.json.org/) as the main language
 to create *Android* and *iOS* applications.
@@ -44,7 +44,7 @@ Of course *Jasonelle* is full of documentation!.
 - [Docs](https://github.com/jasonelle/docs)
 
 
-## Frequently Asked Questions (FAQ)
+## ❓ Frequently Asked Questions (FAQ)
 
 
 ### What about the Original Jasonette?

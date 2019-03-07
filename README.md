@@ -50,7 +50,7 @@ Of course *Jasonelle* is full of documentation!.
 ### What about the Original Jasonette?
 
 *Jasonette* was created by [Ethan](https://github.com/gliechtenstein). 
-But one day we disappeared from earth and went to higher plains of existence. You can know more about why we created this fork in the following [issue](https://github.com/Jasonette/Jasonette/issues/23).
+But one day they disappeared from earth and went to higher plains of existence. You can know more about why we created this fork in the following [issue](https://github.com/Jasonette/Jasonette/issues/23).
 
 ### What about Jason App?
 

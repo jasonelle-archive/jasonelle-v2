@@ -20,13 +20,13 @@ good old *JSON*.
 
 ### 🛠️ Ja.js
 
-If you think *Jasonette* is Awesome, now you can create your own *JSON template* with *Ja.js*!. This component is the core engine that powers *Jasonette*.
+If you think *Jasonette* is Awesome, now you can create your own *JSON template* with *Ja.js*! This component is the core engine that powers *Jasonette*.
 
 - [Ja.js](https://github.com/jasonelle/ja.js)
 
 ### 🕶️ Jay
 
-If you love [JSX](https://reactjs.org/docs/introducing-jsx.html). Now you can use it to generate *JSON* apps!. Bring super powers to your Jasonette App Building using the same tools you know and love.
+If you love [JSX](https://reactjs.org/docs/introducing-jsx.html). Now you can use it to generate *JSON* apps! Bring super powers to your Jasonette App Building using the same tools you know and love.
 
 - [Jay](https://github.com/jasonelle/jay)
 
@@ -39,7 +39,7 @@ The service to share and test your jsons. If you need something quick to host yo
 
 ### 📝 Docs
 
-Of course *Jasonelle* is full of documentation!.
+Of course *Jasonelle* is full of documentation!
 
 - [Docs](https://github.com/jasonelle/docs)
 

@@ -1,6 +1,6 @@
 # 🛸 [Jasonelle Framework](https://jasonelle.com)
 
-<center><img src="https://user-images.githubusercontent.com/292738/69905238-80c70880-138f-11ea-8834-9335ef725ef9.png" style="width:20%;height:auto;"></center>
+<img src="https://user-images.githubusercontent.com/292738/69905238-80c70880-138f-11ea-8834-9335ef725ef9.png" width="100" height="100">
 
 *Jasonelle* is a Framework that uses [JSON](https://www.json.org/) as the main language
 to create *Android* and *iOS* applications.
@@ -29,22 +29,20 @@ jsons.
 - [Download APK](https://github.com/jasonelle/jasonelle/releases)
 - [Source Code](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
 
-## 📝 Docs
+## 📝 [Docs](https://github.com/jasonelle/docs)
 
-Of course *Jasonelle* is full of documentation!
+Of course *Jasonelle* is full of documentation!. Go to the [Docs](https://github.com/jasonelle/docs).
 
-- [Docs](https://github.com/jasonelle/docs)
-
-## 📰 News
+## 📰 [Jasonelle Blog](https://jasonelle.com/blog/)
 
 You can access latest news about *Jasonelle* in the [Jasonelle Blog](https://jasonelle.com/blog/).
 
-## 💬 Telegram
+## 💬 [Telegram](https://t.me/jasonelle)
 
 You can join the community and have a good chat in our telegram group.
 [https://t.me/jasonelle](https://t.me/jasonelle).
 
+## 💌 In Loving Memory of Ethan
 
-> In Loving Memory of Ethan
-> Ethan Gliechtenstein was the creator of Jasonette and participated in the project
-> from January 2016 to June 2018.
+[Ethan Gliechtenstein](https://github.com/gliechtenstein) was the creator of [Jasonette](https://github.com/jasonette) and participated in the project from January 2016 to June 2018. He misteriously
+dissapeared. Read more about the [history of the project](https://jasonelle.com/docs/#/history) in the docs.

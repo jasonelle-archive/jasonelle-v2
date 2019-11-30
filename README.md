@@ -1,14 +1,17 @@
-# 🛸 Jasonelle Framework
+# 🛸 [Jasonelle Framework](https://jasonelle.com)
+
+<center><img src="https://user-images.githubusercontent.com/292738/69905238-80c70880-138f-11ea-8834-9335ef725ef9.png" style="width:20%;height:auto;"></center>
 
 *Jasonelle* is a Framework that uses [JSON](https://www.json.org/) as the main language
 to create *Android* and *iOS* applications.
 
+## 📅 [Releases](RELEASES.md)
 
-## Components
+Releases are made once a year in November. See [RELEASES.md](RELEASES.md). Each release strive
+to only bring bug fixes, new features and maintain backwards compatibility. So an app made
+with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
 
-*Jasonelle* contains different components that you can use to build amazing apps.
-
-### 📱 Jasonette
+## 📱 Jasonette
 
 *Jasonette* is an amazing tool. It let you simplify the complex process of
 building native mobile apps. With *Jasonette* you have the power of *JSON + Javascript*
@@ -18,47 +21,30 @@ good old *JSON*.
 - 🤖 [Jasonette Android](https://github.com/jasonelle/jasonette-android)
 - 🍎 [Jasonette iOS](https://github.com/jasonelle/jasonette-ios)
 
-### 🛠️ Ja.js
+## 🌟 Jason
 
-If you think *Jasonette* is Awesome, now you can create your own *JSON template* with *Ja.js*! This component is the core engine that powers *Jasonette*.
+**Jason** is a web browser for json apps. It enables you to test and share
+jsons.
 
-- [Ja.js](https://github.com/jasonelle/ja.js)
+- [Download APK](https://github.com/jasonelle/jasonelle/releases)
+- [Source Code](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
 
-### 🕶️ Jay
-
-If you love [JSX](https://reactjs.org/docs/introducing-jsx.html). Now you can use it to generate *JSON* apps! Bring super powers to your Jasonette App Building using the same tools you know and love.
-
-- [Jay](https://github.com/jasonelle/jay)
-
-### 🏤 JasonBase
-
-The service to share and test your jsons. If you need something quick to host your Jasonette App, *JasonBase* is your ally. This is a testing service only. Do not use it for production level apps.
-
-- [JasonBase](https://github.com/jasonelle/jasonbase)
-
-
-### 📝 Docs
+## 📝 Docs
 
 Of course *Jasonelle* is full of documentation!
 
 - [Docs](https://github.com/jasonelle/docs)
 
-
-## ❓ Frequently Asked Questions (FAQ)
-
-
-### What about the Original Jasonette?
-
-*Jasonette* was created by [Ethan](https://github.com/gliechtenstein). 
-But one day they disappeared from earth and went to higher plains of existence. You can know more about why we created this fork in the following [issue](https://github.com/Jasonette/Jasonette/issues/23).
-
-### What about Jason App?
-
-You must compile it using the code here.
-
-[Jason App](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
-
-
-## Website
+## 📰 News
 
 You can access latest news about *Jasonelle* in the [Jasonelle Blog](https://jasonelle.com/blog/).
+
+## 💬 Telegram
+
+You can join the community and have a good chat in our telegram group.
+[https://t.me/jasonelle](https://t.me/jasonelle).
+
+
+> In Loving Memory of Ethan
+> Ethan Gliechtenstein was the creator of Jasonette and participated in the project
+> from January 2016 to June 2018.

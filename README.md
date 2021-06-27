@@ -1,15 +1,8 @@
-# 🛸 [Jasonelle Framework](https://jasonelle.com)
+# 🛸 [Jasonelle](https://jasonelle.com)
 
 <img src="https://user-images.githubusercontent.com/292738/69905238-80c70880-138f-11ea-8834-9335ef725ef9.png" width="100" height="100">
 
-*Jasonelle* is a Framework that uses [JSON](https://www.json.org/) as the main language
-to create *Android* and *iOS* applications.
-
-## 📅 [Releases](RELEASES.md)
-
-Releases are made once a year in November. See [RELEASES.md](RELEASES.md). Each release strive
-to only bring bug fixes, new features and maintain backwards compatibility. So an app made
-with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
+*Jasonelle Team* maintains *Jasonette*, which is a framework that uses [JSON](https://www.json.org/) and _JavaScript_ as the main language to create *Android* and *iOS* applications.
 
 ## 📱 Jasonette
 
@@ -21,21 +14,28 @@ good old *JSON*.
 - 🤖 [Jasonette Android](https://github.com/jasonelle/jasonette-android)
 - 🍎 [Jasonette iOS](https://github.com/jasonelle/jasonette-ios)
 
+### 📅 [Releases](RELEASES.md)
+
+See [RELEASES.md](RELEASES.md). Each release strive
+to only bring bug fixes, new features and maintain backwards compatibility. So an app made
+with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
+
+#### Current Version
+
+- [Android Source](https://github.com/jasonelle/jasonette-android/tree/develop)
+- [iOS Source](https://github.com/jasonelle/jasonette-ios/tree/develop)
+
 ## 🌟 Jason
 
-**Jason** is a web browser for json apps. It enables you to test and share
+**Jason** is similar to a web browser for _JSON_ apps. It enables you to test and share
 jsons.
 
 - [Download APK](https://github.com/jasonelle/jasonelle/releases)
 - [Source Code](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
 
-## 📝 [Docs](https://github.com/jasonelle/docs)
+## 📝 [Wiki](https://github.com/jasonelle/docs)
 
 Of course *Jasonelle* is full of documentation!. Go to the [Docs](https://github.com/jasonelle/docs).
-
-## 📰 [Jasonelle Blog](https://jasonelle.com/blog/)
-
-You can access latest news about *Jasonelle* in the [Jasonelle Blog](https://jasonelle.com/blog/).
 
 ## 💬 [Telegram](https://t.me/jasonelle)
 

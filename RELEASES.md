@@ -1,10 +1,13 @@
 # 📅 [Releases](https://github.com/jasonelle/jasonelle/releases)
 
-Releases are made once a year in *November*. Each release strive
+Each release strive
 to only bring bug fixes, new features and maintain backwards compatibility. So an app made
 with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
 
-A release candidate may be released in *June*.
+## v2.1 In Development
+
+- [Android Source](https://github.com/jasonelle/jasonette-android/tree/develop)
+- [iOS Source](https://github.com/jasonelle/jasonette-ios/tree/develop)
 
 ## v2.0 November 2019
 

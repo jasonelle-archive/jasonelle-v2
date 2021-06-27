@@ -14,10 +14,9 @@ good old *JSON*.
 - 🤖 [Jasonette Android](https://github.com/jasonelle/jasonette-android)
 - 🍎 [Jasonette iOS](https://github.com/jasonelle/jasonette-ios)
 
-### 📅 [Releases](RELEASES.md)
+### 📅 [Releases](https://github.com/jasonelle/jasonelle/wiki/Releases)
 
-See [RELEASES.md](RELEASES.md). Each release strive
-to only bring bug fixes, new features and maintain backwards compatibility. So an app made
+Each release strive to only bring bug fixes, new features and maintain backwards compatibility. So an app made
 with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
 
 #### Current Version
@@ -45,4 +44,4 @@ You can join the community and have a good chat in our telegram group.
 ## 💌 In Loving Memory of Ethan
 
 [Ethan Gliechtenstein](https://github.com/gliechtenstein) was the creator of [Jasonette](https://github.com/jasonette) and participated in the project from January 2016 to June 2018. He misteriously
-dissapeared. Read more about the [history of the project](https://jasonelle.com/docs/#/history) in the docs.
+dissapeared. Read more about the [history of the project](https://github.com/jasonelle/jasonelle/wiki/History) in the docs.

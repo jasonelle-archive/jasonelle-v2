@@ -33,9 +33,9 @@ jsons.
 - [Download APK](https://github.com/jasonelle/jasonelle/releases)
 - [Source Code](https://github.com/jasonelle/docs/tree/develop/examples/jasonette/apps/jason-app)
 
-## 📝 [Wiki](https://github.com/jasonelle/docs)
+## 📝 [Wiki](https://github.com/jasonelle/jasonelle/wiki)
 
-Of course *Jasonelle* is full of documentation!. Go to the [Docs](https://github.com/jasonelle/docs).
+Of course *Jasonelle* is full of documentation!. Go to the [Docs](https://github.com/jasonelle/jasonelle/wiki).
 
 ## 💬 [Telegram](https://t.me/jasonelle)
 

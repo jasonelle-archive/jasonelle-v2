@@ -1,6 +1,6 @@
 # 🛸 [Jasonelle](https://jasonelle.com)
 
-<img src="https://raw.githubusercontent.com/jasonelle/jasonelle.github.io/main/jasonelle.png" width="100" height="100">
+<img src="https://raw.githubusercontent.com/jasonelle/jasonelle.github.io/main/jasonelle.png" width="200" height="150">
 
 *Jasonelle Team* maintains *Jasonette*, which is a framework that uses [JSON](https://www.json.org/) and _JavaScript_ as the main language to create *Android* and *iOS* applications.
 

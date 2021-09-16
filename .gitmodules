@@ -1,0 +1,12 @@
+[submodule "lib/docker"]
+	path = lib/docker
+	url = https://github.com/jasonelle/docker
+	branch = main
+[submodule "lib/jasonette-android"]
+	path = lib/jasonette-android
+	url = https://github.com/jasonelle/jasonette-android
+	branch = develop
+[submodule "lib/jasonette-ios"]
+	path = lib/jasonette-ios
+	url = https://github.com/jasonelle/jasonette-ios
+	branch = develop

@@ -4,10 +4,18 @@ Each release strive
 to only bring bug fixes, new features and maintain backwards compatibility. So an app made
 with *Jasonette 1* can be executed successfully with *Jasonette 100* in the future.
 
-## v2.1 In Development
+## v2.2 Development
 
 - [Android Source](https://github.com/jasonelle/jasonette-android/tree/develop)
 - [iOS Source](https://github.com/jasonelle/jasonette-ios/tree/develop)
+
+## v2.1 September 2021
+
+Last version to support Android < 30 and iOS < 13
+
+- [Release](https://github.com/jasonelle/jasonelle/releases/tag/v2.1)
+- [Android Source](https://github.com/jasonelle/jasonette-android/tree/v2.1.0)
+- [iOS Source](https://github.com/jasonelle/jasonette-ios/tree/v2.1)
 
 ## v2.0 November 2019
 
